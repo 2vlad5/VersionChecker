@@ -4,4 +4,5 @@
     <url>https://github.com/2vlad5/VersionChecker/blob/master/2vlad5Exploiter.exe?raw=true</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory>folse</mandatory>
+    %path%
 </item>
