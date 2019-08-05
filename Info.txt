@@ -4,10 +4,5 @@
 Добавлено автообновление
 Кнопка "Update" теперь работает
 Добавлено 7 кнопок "nill", скоро будет новое обновление
-Update v1.2:
-The program version is displayed correctly
-Added update log
-Added auto-update
-The "Update" button now works
-Added 7 "nill" buttons, new update coming soon
+
  
