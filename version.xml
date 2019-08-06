@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.3.0.0</version>
-    <url>https://github.com/2vlad5/VersionChecker/blob/master/2vlad5Exploiter.exe?raw=true</url>
+    <url>https://github.com/2vlad5/VersionChecker/blob/master/2vlad5Exploiter.zip?raw=true</url>
     <changelog>https://raw.githubusercontent.com/2vlad5/VersionChecker/master/Info.txt</changelog>
     <mandatory>folse</mandatory>
 </item>
